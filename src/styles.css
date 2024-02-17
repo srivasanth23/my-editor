@@ -27,3 +27,10 @@
   /* Edge 12 -18 */
   color: black;
 }
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
